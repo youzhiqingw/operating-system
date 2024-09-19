@@ -9,9 +9,6 @@
 > 班级：软件1903
 >
 
-|                           bilibili                           |                   WeChat official account                    |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img width="60%" src="https://img-blog.csdnimg.cn/img_convert/96321ca49ce798da3095c0cb4c2bcafa.png"> | <img width="50%" src="https://img-blog.csdnimg.cn/img_convert/4488f9f9de1c18bb21c82f5657598d0d.png"> |
 
 ## 参考教程
 
