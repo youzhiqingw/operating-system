@@ -7,15 +7,6 @@
 > 学号：04191315	
 >
 > 班级：软件1903
->
-
-
-## 参考教程
-
-|                        推荐学习教程①                         |                        推荐学习教程②                         |                           课本教材                           |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img width="50%" hight="50%" src="https://i0.hdslb.com/bfs/archive/d1d55e0a37103e596274a16439fa837094cdf92b.jpg@672w_378h_1c_!web-search-common-cover"> | <img width="65%" hight="70%" src="https://i2.hdslb.com/bfs/archive/d19de3e04a08ee6e65c5c75194125fc19de871a7.jpg@672w_378h_1c_!web-search-common-cover"> | <img src="https://img-blog.csdnimg.cn/fcbbec433ac54e278cb275adcd5f15ef.png?x-oss-process=image/resize,m_fixed,h_224,w_224"> |
-|         https://www.bilibili.com/video/BV1ji4y1A7rm          | 王道bilibili官方有免费的，但不是最新版的，如果需要最新版的可以私聊UP主 |                      计算机操作系统教程                      |
 
 ## 课程学习建议
 
